@@ -141,18 +141,13 @@ The model is a lightweight 1D CNN trained on labeled fatigue sessions. "Fatigue"
 
 > I'll be documenting every stage here as the build progresses — PCB spins, firmware milestones, mechanical failures, the works.
 
-- [ ] Switch prototype v1 (single key breadboard test)
+- [x] Swith Design Complete (Onshape)
 - [ ] PCB design complete (KiCad)
-- [ ] PCB ordered (JLCPCB)
-- [ ] PCB assembled
-- [ ] QMK base firmware (65-key ADC scan working)
-- [ ] Rapid Trigger + Dead Zone
-- [ ] Joystick Mode
-- [ ] Display + Knob UI
-- [ ] Tilt system (all 3 modes)
-- [ ] AI fatigue model trained + flashed
-- [ ] Case built
-- [ ] Full typing test
+- [ ] QMK Firmware Complete
+- [ ] Parts Ordered
+- [ ] Assembly and Testing Complete
+- [ ] Features Done
+- [ ] Submitted to Stasis
 
 ---
 
